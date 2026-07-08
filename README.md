@@ -46,7 +46,7 @@ Student-Management-System
 ---
 
 ## 💻 Sample Output
-![Student Management System](output.jpg)
+![Student Management System](output.png)
 ```
 ========== STUDENT MANAGEMENT SYSTEM ==========
 
